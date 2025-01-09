@@ -16,17 +16,22 @@
 ### 🎨 Customizable Effects
 #### Easily tweak parameters such as density, speed, and color to create unique smoke effects tailored to your design
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+---
 
-``` bash
+## 🚀 Setup
+
+Download [Node.js](https://nodejs.org/en/download/) to get started. Then, follow these commands:
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to the project directory
+cd <project-folder>
+
 # Install dependencies (only the first time)
 npm install
 
 # Run the local server at localhost:8080
 npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
